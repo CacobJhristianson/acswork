@@ -1,15 +1,13 @@
 /*****************************************
- * Assignment 4
+ * A Digital Scene
  * Name:    Jacob Christianson
  * E-mail:  772339@apps.district196.org 
  * Course:      ACS 2020!
  * Submitted:    10/1/2020
  *
- * The main driver program for project 4.
+ * Some processing stuffz
  *
- * This program reads the file specified as the first command line
- * argument, counts the number of words, spaces, and characters and
- * displays the results in the format specified in the project description.
+ * 
  *
 ***********************************************/
 PImage img;
